@@ -1,10 +1,10 @@
-## Oiii! Eu sou o Jefferson Santos
+<h2 align="center">Oiii! Eu sou o Jefferson Santos</h2>
 <div align="center">
   <a href="https://github.com/jeffersonsil813">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsil813&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsil813&layout=compact&langs_count=7&theme=omni"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
