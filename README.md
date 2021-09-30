@@ -28,7 +28,7 @@
   <a href = "jefferson.sil813@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffersonsil813/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=jeffersonsil813&repo=jeffersonsil813&theme=react)] -->
+![Snake animation](https://github.com/jeffersonsil813/jeffersonsil813/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
