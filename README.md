@@ -1,5 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Jefferson%20Santos&fontSize=50&fontColor=c9a84c&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descColor=888888)
 
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9A84C&center=true&vCenter=true&width=500&lines=Curiosity+brought+me+here...;...and+it's+what+keeps+me+growing." alt="Typing SVG" />
 </p>
@@ -7,7 +10,6 @@
 ---
 
 ### 🤠 About Me
-
 ```ts
 const jefferson = {
   role:       "Frontend Developer",
@@ -25,9 +27,13 @@ const jefferson = {
 ### 📊 Stats
 
 <div align="center">
-  <a href="https://github.com/jeffersonsil813">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsil813&layout=compact&langs_count=7&theme=dracula&bg_color=0d0d0d&border_color=c9a84c&title_color=c9a84c&text_color=888888"/>
-  </a>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonsil813&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+
+  <br><br>
+
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=jeffersonsil813&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=c9a84c&hide_border=false&border_color=c9a84c"/>
+
 </div>
 
 ---
@@ -69,4 +75,8 @@ const jefferson = {
 
 </div>
 
+<div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer)
+
+</div>
