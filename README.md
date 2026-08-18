@@ -14,7 +14,7 @@
 const jefferson = {
   role:       "Frontend Developer",
   education:  "Systems Analysis and Development",
-  stack:      ["React", "TypeScript", "Tailwind CSS"],
+  stack:      ["Next", "React", "TypeScript", "Tailwind CSS"],
   principles: ["Clean Code", "Continuous Learning", "Collaboration"],
   currently:  "Improving English & leveling up every day",
 };
